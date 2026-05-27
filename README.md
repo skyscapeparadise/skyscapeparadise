@@ -10,7 +10,7 @@ multimedia artist and software developer in olympia, wa. i run rain multimedia, 
 
 **understory**. a spatial multimedia authoring tool built in qt/qml with pyside6. think hypercard meets a film timeline. designed for branching narrative work, interactive films, and nonlinear games.
 
-**everscore**. a networked scorebug system for college athletic broadcasts. running in production at evergreen state college.
+**everscore**. a networked scorebug system for college athletic broadcasts. running in production at the evergreen state college.
 
 **samplesidekick**. the internal sample-processing toolkit behind gaze and rainyday.
 
