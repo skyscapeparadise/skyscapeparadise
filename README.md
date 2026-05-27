@@ -16,4 +16,4 @@ multimedia artist and software designer in olympia, wa. i run rain multimedia, w
 
 ## elsewhere
 
-skyscape paradise music is on [bandcamp.](https://skyscapeparadise.bandcamp.com) rain multimedia's instruments live at [rainmultimedia.net](https://www.rainmultimedia.net).
+skyscape paradise music is on [bandcamp](https://skyscapeparadise.bandcamp.com). rain multimedia's instruments live at [rainmultimedia.net](https://www.rainmultimedia.net).
