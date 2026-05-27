@@ -6,14 +6,14 @@ multimedia artist and software designer in olympia, wa. i run rain multimedia, w
 
 **[GAZE](https://www.spitfireaudio.com/en-us/products/skyscapeparadise-gaze)** (2022). a virtual olympia shoegaze band published by spitfire audio featuring shoegaze musicians robin carmosino and max keena.
 
-**[rainyday](https://www.rainmultimedia.net/product/rainyday/)** (2025). a cassette-sampled electric piano trio with an animated photorealistic path-traced interface. rain multimedia's first commerical product and a collaboration with olympia house venue the moon room.
+**[rainyday](https://www.rainmultimedia.net/product/rainyday/)** (2025). a cassette-sampled electric piano trio with an animated photorealistic path-traced interface. rain multimedia's first commerical product and a collaboration with finn foley and olympia house venue the moon room.
 
-**[understory](https://github.com/skyscapeparadise/understory)**. a spatial multimedia authoring tool built in qt/qml with pyside6. think hypercard meets a film timeline. designed for branching narrative work, interactive films, and nonlinear games.
+**[understory](https://github.com/skyscapeparadise/understory)**. a creative multimedia authoring tool designed for nonlinear narrative, interactive films, and video games. currently in development, aiming for a 2027 beta release.
 
-**[everscore](https://github.com/recevergreen/everscore)**. a networked scorebug system for college athletic broadcasts. running in production at the evergreen state college.
+**[everscore](https://github.com/recevergreen/everscore)**. a bidirectional networked scorebug system for college athletic broadcasts. running in production at the evergreen state college.
 
-**[samplesidekick](https://github.com/skyscapeparadise/samplesidekick)**. the internal sample-processing toolkit behind gaze and rainyday.
+**[samplesidekick](https://github.com/skyscapeparadise/samplesidekick)**. the internal sample-processing toolkit behind rainyday. samplesidekick converts a logic pro session full of thousands of individual samples into a samplemap for use with HISE, kontakt, or the sampler of your choice.
 
 ## elsewhere
 
-skyscape paradise music is on [bandcamp](https://skyscapeparadise.bandcamp.com). rain multimedia's instruments live at [rainmultimedia.net](https://www.rainmultimedia.net).
+skyscape paradise is an electronic rock band on [bandcamp](https://skyscapeparadise.bandcamp.com) and [youtube](https://www.youtube.com/@skyscapeparadise). rain multimedia's instruments live at [rainmultimedia.net](https://www.rainmultimedia.net).
