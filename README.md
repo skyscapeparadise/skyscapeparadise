@@ -1,16 +1,19 @@
-## Hi there 👋
+# kady everpetal
 
-<!--
-**skyscapeparadise/skyscapeparadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+multimedia artist and software developer in olympia, wa. i run rain multimedia, where i build instruments, authoring tools, and interactive systems.
 
-Here are some ideas to get you started:
+## work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[gaze](https://www.spitfireaudio.com/en-us/products/skyscapeparadise-gaze)** (2022). a virtual shoegaze band for spitfire audio, released under the skyscape paradise name.
+
+**[rainyday](https://www.rainmultimedia.net/product/rainyday/)** (2025). a sampled electric piano with a photorealistic path-traced interface. rain multimedia's first product.
+
+**understory**. a spatial multimedia authoring tool built in qt/qml with pyside6. think hypercard meets a film timeline. designed for branching narrative work, interactive films, and nonlinear games.
+
+**everscore**. a networked scorebug system for college athletic broadcasts. running in production at evergreen state college.
+
+**samplesidekick**. the internal sample-processing toolkit behind gaze and rainyday.
+
+## elsewhere
+
+skyscape paradise music is on the usual streaming places. rain multimedia's instruments live at [rainmultimedia.net](https://www.rainmultimedia.net).
