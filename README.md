@@ -11,6 +11,8 @@ multimedia artist, musician, music video director, and software designer in olym
 
 **[rainyday](https://www.rainmultimedia.net/product/rainyday/)** (2025). a cassette-sampled electric piano trio with an animated photorealistic path-traced interface. rain multimedia's first commercial product and a collaboration with finn foley and olympia house venue the moon room.
 
+**[sink](https://github.com/skyscapeparadise/sink)** (2026). a gpu-accelerated terminal emulator for macOS with word processor style text editing and support for HDR video backgrounds.
+
 **[understory](https://github.com/skyscapeparadise/understory)** (coming 2027). a creative multimedia authoring tool designed for nonlinear narrative, interactive films, and video games.
 
 **[everscore](https://github.com/recevergreen/everscore)** (2025). a bidirectional networked scorebug system for college athletic broadcasts. running in production at the evergreen state college.
