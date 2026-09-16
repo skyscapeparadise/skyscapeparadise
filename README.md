@@ -1,6 +1,6 @@
 # kady everpetal
 
-multimedia artist, musician, music video director, and software designer in olympia, wa. i run rain multimedia, where i build instruments, authoring tools, and interactive systems. i also work and occasionally teach at the evergreen state college.
+multimedia artist, musician, music video director, and software designer in olympia, wa. i work at rain multimedia, building instruments, tools, and interactive systems. i also work and occasionally teach at the evergreen state college.
 
 <img width="3840" height="570" alt="kadybanner" src="https://github.com/user-attachments/assets/d47a492e-691a-44af-b67e-698214b8854c" />
 
